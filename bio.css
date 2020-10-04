@@ -1,0 +1,32 @@
+h2 {
+    text-align: center;
+    position: relative;
+    top: -20px;
+    color: white;
+    background-color: black;
+}
+
+body {
+    background-color: wheat;
+}
+
+#rightside {
+    text-align: right;
+    position: relative;
+    top: -318px;
+    left: -135px;
+}
+
+.list {
+    position: relative;
+    right: -720px;
+    top: -335px;
+}
+
+p {
+    font-weight: bold;
+    text-align: center;
+    position: relative;
+    top: -150px;
+    left: -100px;
+}
